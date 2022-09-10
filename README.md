@@ -6,7 +6,6 @@ In this repository, I am sharing my learning of data visualization using differe
   - Line styling
   - Line annotation
   - Multiple graphs in the same figure
-  
   -Bar graphs
 
 # Part 2 : demo - RADAR data analysis and visualization
