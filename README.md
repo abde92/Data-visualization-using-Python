@@ -1,7 +1,7 @@
 # Data-visualization-using-Python
 In this repository, I am sharing my learning of data visualization using different python data visualization libraries.
 
-# Part 1 : plotting generated data using matplotlib library
+# Part 1 : plotting data using matplotlib library
   - Basic plotting
   - Line styling
   - Line annotation
