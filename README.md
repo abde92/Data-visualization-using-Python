@@ -9,5 +9,10 @@ In this repository, I am sharing my learning of data visualization using differe
   - Bar graphs
 
 # Part 2 : RADAR data analysis and visualization
+ - Import RADAR data
+ - Randomly get signal to plot
+ - Plot multiple signals in same canvas
+ - Spectral analysis
+
 
 
