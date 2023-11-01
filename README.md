@@ -14,8 +14,6 @@ In this repository, I am sharing my learning of data visualization using differe
  - Plot multiple signals in same canvas
  - Spectral analysis
 
-# Part 3 : RADAR-based Materials Classification using DNN
- - 
 
 
 
